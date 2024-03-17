@@ -4,4 +4,5 @@
 1- Clone the appliction in machine 
 </br>
 2- Add you azure storage connection string in appsetting.json file 
+</br>
 3- Build & Run the application 
